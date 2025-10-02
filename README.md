@@ -53,7 +53,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Muykhim Ing - [muykhim](https://github.com/muykhim)
 
 ---
 
