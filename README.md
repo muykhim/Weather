@@ -7,7 +7,7 @@
 ## Project Overview
 
 This project explores and compares daily precipitation data between Seattle and New York, NY.  
-The goal is to determine which city receives more rainfall on average and examine seasonal rainfall patterns.
+The goal is to determine which city receives more rainfall on average and examine seasonal rainfall patterns. 
 
 - **Objective:** Compare rainfall patterns between Seattle and New York.
 - **Domain:** Climate, Weather
@@ -50,6 +50,7 @@ Newyork_rain.csv: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND -
     5. Calculate and visualize total rainy days for each city.  
     6. Calculate and visualize monthly average precipitation to examine seasonal patterns.  
     7. Interpret results using simple language for general readers.
+- **Communication Report**: ["reports/Communication The Results.pdf"]
 
 
 
