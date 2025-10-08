@@ -30,6 +30,7 @@ The goal is to determine which city receives more rainfall on average and examin
 ## Data
 
 - **Source:** 
+
 seattle_rain.csv : https://raw.githubusercontent.com/brian-fischer/DATA-5100/refs/heads/main/weather/seattle_rain.csv
 
 Newyork_rain.csv: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND - 
@@ -51,7 +52,6 @@ Newyork_rain.csv: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND -
     6. Calculate and visualize monthly average precipitation to examine seasonal patterns.  
     7. Interpret results using simple language for general readers.
 - **Communication Report**: ["reports/Communication The Results.pdf"]
-
 
 
 ---
