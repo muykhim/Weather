@@ -1,4 +1,4 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Rainfall Comparison: Seattle vs New York City (2018-2022)
 
 > This project compare the weather between Seattle and New York City from Jan 1 2018 to Dec 31 2022.
 
